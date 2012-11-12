@@ -1,0 +1,20 @@
+Index: qtfm-5.4/qtfm.desktop
+===================================================================
+--- qtfm-5.4.orig/qtfm.desktop
++++ qtfm-5.4/qtfm.desktop
+@@ -9,6 +9,7 @@ Name[zh_TW]=qtFM
+ 
+ GenericName=Qt File Manager
+ GenericName[es]=Qt Gestor de Archivos
++GenericName[ru]=Файловый менеджер
+ GenericName[sr]=Кјут менаџер фајлова
+ GenericName[sr@ijekavian]=Кјут менаџер фајлова
+ GenericName[sr@latin]=qtFM menadžer fajlova
+@@ -30,5 +31,5 @@ Type=Application
+ Icon=qtfm
+ Exec=qtfm
+ Terminal=false
+-MimeType=application/x-directory;inode/directory
+-Categories=Qt;Utility;FileManager
++MimeType=application/x-directory;inode/directory;
++Categories=Qt;Utility;FileManager;
