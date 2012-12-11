@@ -49,3 +49,10 @@ make install INSTALL_ROOT=%{buildroot}
 %if %{mdvver} <= 201100
 %{_datadir}/qtfm/qtfm_*.qm
 %endif
+
+
+%changelog
+* Tue Mar 13 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 5.4-1
++ Revision: 784638
+- imported package qtfm
+
