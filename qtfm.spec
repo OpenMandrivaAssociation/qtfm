@@ -7,7 +7,7 @@ Group:		Graphical desktop/Other
 URL:		http://www.qtfm.org/
 Source0:	http://www.qtfm.org/%{name}-%{version}.tar.gz
 Patch0:		qtfm-5.4-mdv-desktop.patch
-BuildRequires:	libqt4-devel
+BuildRequires:	pkgconfig(Qt3Support)
 BuildRequires:	magic-devel
 
 %description
