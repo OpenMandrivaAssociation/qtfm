@@ -1,7 +1,7 @@
 Name:		qtfm
 Summary:	Lightweight file manager based on pure Qt
 Version:	5.4
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.qtfm.org/
