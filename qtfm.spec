@@ -4,7 +4,7 @@ Version:	5.4
 Release:	3
 License:	GPLv2+
 Group:		Graphical desktop/Other
-URL:		http://www.qtfm.org/
+URL:		https://www.qtfm.org/
 Source0:	http://www.qtfm.org/%{name}-%{version}.tar.gz
 Patch0:		qtfm-5.4-mdv-desktop.patch
 BuildRequires:	pkgconfig(Qt3Support)
